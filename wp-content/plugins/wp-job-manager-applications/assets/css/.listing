@@ -1,0 +1,10 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 17:06 .
+drwxrwx---    5 1000       web_gearse         38 Dec 15 17:06 ..
+-rw-rwx---    1 1000       web_gearse       8557 Nov 13  2017 admin.css
+-rw-rwx---    1 1000       web_gearse       6144 Nov 13  2017 admin.less
+-rw-rwx---    1 1000       web_gearse      14254 Nov 13  2017 frontend.css
+-rw-rwx---    1 1000       web_gearse       8246 Nov 13  2017 frontend.less
+-rw-rwx---    1 1000       web_gearse        960 Nov 13  2017 icons.less
+-rw-rwx---    1 1000       web_gearse        283 Nov 13  2017 menu.css
+-rw-rwx---    1 1000       web_gearse        500 Nov 13  2017 menu.less
+-rw-rwx---    1 1000       web_gearse       3351 Nov 13  2017 mixins.less

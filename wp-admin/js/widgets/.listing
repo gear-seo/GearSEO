@@ -1,0 +1,16 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 16:50 .
+drwxrwx---    3 1000       web_gearse       4096 Dec 15 16:50 ..
+-rw-rwxr--    1 1000       web_gearse      15091 Jan 16 21:23 custom-html-widgets.js
+-rw-rwxr--    1 1000       web_gearse       5578 Jan 16 21:23 custom-html-widgets.min.js
+-rw-rwx---    1 1000       web_gearse       3871 Jun 27  2017 media-audio-widget.js
+-rw-rwx---    1 1000       web_gearse       1440 Jun 27  2017 media-audio-widget.min.js
+-rw-rwx---    1 1000       web_gearse       9951 Dec 13  2017 media-gallery-widget.js
+-rw-rwx---    1 1000       web_gearse       3779 Dec 13  2017 media-gallery-widget.min.js
+-rw-rwx---    1 1000       web_gearse       5212 Dec 13  2017 media-image-widget.js
+-rw-rwx---    1 1000       web_gearse       2023 Dec 13  2017 media-image-widget.min.js
+-rw-rwx---    1 1000       web_gearse       6594 Dec 13  2017 media-video-widget.js
+-rw-rwx---    1 1000       web_gearse       2705 Dec 13  2017 media-video-widget.min.js
+-rw-rwx---    1 1000       web_gearse      41846 Dec 13  2017 media-widgets.js
+-rw-rwx---    1 1000       web_gearse      14422 Dec 13  2017 media-widgets.min.js
+-rw-rwx---    1 1000       web_gearse      17766 Dec 13  2017 text-widgets.js
+-rw-rwx---    1 1000       web_gearse       5924 Dec 13  2017 text-widgets.min.js

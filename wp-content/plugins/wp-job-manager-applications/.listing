@@ -1,0 +1,10 @@
+drwxrwx---    6 1000       web_gearse       4096 Dec 15 17:06 .
+drwxrwx---   37 1000       web_gearse       4096 Jun 11 07:35 ..
+drwxrwx---    5 1000       web_gearse         38 Dec 15 17:06 assets
+drwxrwx---    3 1000       web_gearse       4096 Dec 15 17:06 includes
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 17:06 languages
+-rw-rwx---    1 1000       web_gearse       7968 Nov 13  2017 readme.txt
+drwxrwx---    3 1000       web_gearse       4096 Dec 15 17:06 templates
+-rw-rwx---    1 1000       web_gearse        302 Nov 13  2017 uninstall.php
+-rw-rwx---    1 1000       web_gearse       7134 Nov 13  2017 wp-job-manager-applications.php
+-rw-rwx---    1 1000       web_gearse        267 Nov 13  2017 wpml-config.xml

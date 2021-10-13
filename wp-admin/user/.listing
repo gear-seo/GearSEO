@@ -1,0 +1,11 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 16:50 .
+drwxrwx---   10 1000       web_gearse       4096 Dec 15 16:50 ..
+-rw-rwx---    1 1000       web_gearse        275 Jan 23  2017 about.php
+-rw-rwx---    1 1000       web_gearse        842 Jan 23  2017 admin.php
+-rw-rwx---    1 1000       web_gearse        279 Jan 23  2017 credits.php
+-rw-rwx---    1 1000       web_gearse        281 Jan 23  2017 freedoms.php
+-rw-rwx---    1 1000       web_gearse        269 Jan 23  2017 index.php
+-rw-rwx---    1 1000       web_gearse        700 Jan 23  2017 menu.php
+-rw-rwx---    1 1000       web_gearse        279 Dec 13  2017 privacy.php
+-rw-rwx---    1 1000       web_gearse        270 Jan 23  2017 profile.php
+-rw-rwx---    1 1000       web_gearse        268 Jan 23  2017 user-edit.php

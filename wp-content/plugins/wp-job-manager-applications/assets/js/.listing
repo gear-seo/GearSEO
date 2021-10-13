@@ -1,0 +1,8 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 17:06 .
+drwxrwx---    5 1000       web_gearse         38 Dec 15 17:06 ..
+-rw-rwx---    1 1000       web_gearse       3166 Nov 13  2017 application-dashboard.js
+-rw-rwx---    1 1000       web_gearse       2281 Nov 13  2017 application-dashboard.min.js
+-rw-rwx---    1 1000       web_gearse       1057 Nov 13  2017 application.js
+-rw-rwx---    1 1000       web_gearse        817 Nov 13  2017 application.min.js
+-rw-rwx---    1 1000       web_gearse       3640 Nov 13  2017 form-editor.js
+-rw-rwx---    1 1000       web_gearse       2675 Nov 13  2017 form-editor.min.js

@@ -1,0 +1,12 @@
+drwxrwx---    9 1000       web_gearse       4096 Dec 15 16:49 .
+drwxrwx---    3 1000       web_gearse       4096 Dec 15 16:49 ..
+-rw-rwx---    1 1000       web_gearse      11726 Jun 27  2017 _admin.scss
+-rw-rwx---    1 1000       web_gearse       1497 Dec 13  2017 _mixins.scss
+-rw-rwx---    1 1000       web_gearse       1854 Jan 23  2017 _variables.scss
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 blue
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 coffee
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 ectoplasm
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 light
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 midnight
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 ocean
+drwxrwx---    2 1000       web_gearse        108 Dec 15 16:49 sunrise

@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /contract/
+Disallow: /projetos/
+Disallow: /xmlrpc.php
+Allow: /wp-content/uploads/
+
+
+Sitemap: https://www.gearseo.com.br/sitemap_index.xml
