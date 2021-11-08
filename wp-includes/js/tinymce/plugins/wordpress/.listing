@@ -1,0 +1,4 @@
+drwxrwx---    2 1000       web_gearse         42 Dec 15 16:53 .
+drwxrwx---   24 1000       web_gearse       4096 Dec 15 16:53 ..
+-rw-rwx---    1 1000       web_gearse      29786 Dec 13  2017 plugin.js
+-rw-rwx---    1 1000       web_gearse      15301 Dec 13  2017 plugin.min.js

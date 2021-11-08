@@ -1,0 +1,6 @@
+drwxrwx---    2 1000       web_gearse         86 Dec 15 16:53 .
+drwxrwx---    7 1000       web_gearse       4096 Dec 15 16:53 ..
+-rw-rwx---    1 1000       web_gearse       2125 Jun 27  2017 editable_selects.js
+-rw-rwx---    1 1000       web_gearse       6071 Jun 27  2017 form_utils.js
+-rw-rwx---    1 1000       web_gearse       4160 Dec 13  2017 mctabs.js
+-rw-rwxr--    1 1000       web_gearse       6466 May 18 11:49 validate.js

@@ -1,0 +1,11 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 16:52 .
+drwxrwx---   12 1000       web_gearse       4096 Dec 15 16:52 ..
+-rw-rwx---    1 1000       web_gearse      16189 May 16  2017 handlers.js
+-rw-rwx---    1 1000       web_gearse      10551 May 16  2017 handlers.min.js
+-rw-rwx---    1 1000       web_gearse      17987 Jan 23  2017 license.txt
+-rw-rwx---    1 1000       web_gearse     254084 Dec 13  2017 moxie.js
+-rw-rwx---    1 1000       web_gearse      89142 Dec 13  2017 moxie.min.js
+-rw-rwx---    1 1000       web_gearse      60314 Dec 13  2017 plupload.js
+-rw-rwx---    1 1000       web_gearse      15742 Dec 13  2017 plupload.min.js
+-rw-rwx---    1 1000       web_gearse      12726 Dec 13  2017 wp-plupload.js
+-rw-rwx---    1 1000       web_gearse       4920 Jan 23  2017 wp-plupload.min.js

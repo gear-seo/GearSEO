@@ -1,0 +1,8 @@
+drwxrwx---    2 1000       web_gearse        112 Dec 15 16:53 .
+drwxrwx---   18 1000       web_gearse       8192 Dec 15 16:53 ..
+-rw-rwx---    1 1000       web_gearse       2887 Jan 23  2017 entry.php
+-rw-rwx---    1 1000       web_gearse       8462 Jan 23  2017 mo.php
+-rw-rwx---    1 1000       web_gearse       6941 Dec 13  2017 plural-forms.php
+-rw-rwx---    1 1000       web_gearse      13492 Dec 13  2017 po.php
+-rw-rwx---    1 1000       web_gearse       5948 Jan 23  2017 streams.php
+-rw-rwx---    1 1000       web_gearse       8857 Dec 13  2017 translations.php

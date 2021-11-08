@@ -1,0 +1,1646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: adios\n"
+"POT-Creation-Date: 2017-11-09 12:16+0530\n"
+"PO-Revision-Date: 2017-11-09 12:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;esc_html__;esc_html_e;wp_kses_data;wp_kses_post;"
+"esc_attr;sprintf\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16 framework/includes/rs-frontend-functions.php:374
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid "Back To Home"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:52
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:53
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Post"
+msgstr ""
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: templates/blog/blog-single/next-post.php:32
+#: templates/blog/blog-single/layout/default.php:40
+#: templates/blog/blog-single/layout/alternative.php:42
+#: page-templates/blog-masonry.php:66 page-templates/blog-list.php:59
+msgid ", "
+msgstr ""
+
+#: templates/blog/blog-single/content-single.php:26
+#: templates/blog/blog-single/layout/default.php:50
+#: templates/blog/blog-single/layout/alternative.php:53
+#: templates/content/content-page.php:14
+msgid "Pages:"
+msgstr ""
+
+#: templates/blog/blog-single/content-single.php:36
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/blog-single/content-single.php:58
+msgid "There is no author description yet."
+msgstr ""
+
+#: templates/blog/blog-single/layout/default.php:40
+#: templates/blog/blog-single/layout/alternative.php:42
+#: page-templates/blog-masonry.php:66 page-templates/blog-list.php:59
+msgid "In"
+msgstr ""
+
+#: templates/blog/blog-single/layout/default.php:40
+#: templates/blog/blog-single/layout/alternative.php:42
+#: page-templates/blog-masonry.php:66 page-templates/blog-list.php:59
+msgid "Posted"
+msgstr ""
+
+#: templates/portfolio/project-gallery.php:44
+msgid "Share on"
+msgstr ""
+
+#: templates/portfolio/project-pagination.php:36
+msgid "Previous"
+msgstr ""
+
+#: templates/portfolio/project-pagination.php:63
+msgid "Next"
+msgstr ""
+
+#: templates/portfolio/project-details.php:28
+#: framework/admin/metaboxes/portfolio-details.php:8
+msgid "Project details"
+msgstr ""
+
+#: templates/portfolio/project-details.php:50
+msgid "Category"
+msgstr ""
+
+#: templates/content/content-none.php:10
+msgid "Sorry No Post Found !"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:31
+msgid "button"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:26
+#, php-format
+msgid ""
+"<a rel=\"nofollow\" href=\"%s\" data-quantity=\"%s\" data-product_id=\"%s\" "
+"data-product_sku=\"%s\" class=\"%s c-btn type-2 size-1\">%s</a>"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:69
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:69
+#, php-format
+msgid "<img src=\"%s\" alt=\"%s\" class=\"wp-post-image\" />"
+msgstr ""
+
+#: page-templates/portfolio.php:104 page-templates/portfolio.php:106
+msgid "All"
+msgstr ""
+
+#: page-templates/blog-masonry.php:73 page-templates/blog-list.php:67
+msgid "Learn More"
+msgstr ""
+
+#: framework/includes/rs-helper-functions.php:168
+#: framework/admin/metaboxes/title-wrapper.php:29
+#: framework/admin/metaboxes/title-wrapper.php:60
+#: framework/admin/metaboxes/post.php:16
+#: framework/admin/metaboxes/header.php:29
+#: framework/admin/options/header.php:26
+msgid "Default"
+msgstr ""
+
+#: framework/includes/rs-helper-functions.php:345
+msgid "Pingback:"
+msgstr ""
+
+#: framework/includes/rs-helper-functions.php:372
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/includes/rs-helper-functions.php:388
+msgid "Edit"
+msgstr ""
+
+#: framework/includes/rs-helper-functions.php:390
+msgid "Share"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:146
+msgid "sub item"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:178
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:187
+#: framework/admin/metaboxes/portfolio-general.php:38
+msgid "URL"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:194
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:200
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:207
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:212
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:218
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:224
+msgid "Description"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:226
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:232
+msgid "Move"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:233
+msgid "Up one"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:234
+msgid "Down one"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:237
+msgid "To the top"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:249
+msgid "Hide Navigation Label"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:258
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:271
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/rs-menu-walker-class.php:272
+msgid "Cancel"
+msgstr ""
+
+#: framework/includes/rs-filters-config.php:95
+msgid "Demo Content"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:201
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:210
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:219
+msgid "Adios Demo Import"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:229
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:238
+msgid "Visual Composer"
+msgstr ""
+
+#: framework/includes/rs-actions-config.php:248
+msgid "Adios Addons"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:111
+msgid ""
+"You can edit your menu content on the Menus screen in the Appearance section."
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:190
+#: framework/includes/rs-frontend-functions.php:263
+msgid "Home"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:233
+#: framework/includes/rs-frontend-functions.php:238
+#: framework/includes/rs-frontend-functions.php:243
+msgid "Archive for"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:248
+msgid "Author Archive"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:252
+msgid "Blog Archives"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:255
+msgid "Search Results"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:258
+msgid "Page not Found"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:293
+msgid "Blog"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:299
+msgid "Post Single Page"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:313
+msgid "1 search result for"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:316
+msgid "search results for"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:319
+msgid "Search results for"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:347
+msgid "Asides"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:350
+msgid "Galleries"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:353
+msgid "Images"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:356
+msgid "Videos"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:359
+msgid "Quotes"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:362
+msgid "Links"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:365
+msgid "Statuses"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:368
+msgid "Audios"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:371
+msgid "Chats"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:377
+msgid "Archives"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:407
+msgid "345"
+msgstr ""
+
+#: framework/includes/rs-frontend-functions.php:407
+msgid "recommendations"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:49
+msgid "Search Products.."
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:92
+msgid "Cart"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:96
+msgid "Cart is empty"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:123
+#, php-format
+msgid "<a href=\"%s\" class=\"title\"> %sx %s</a>"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:126
+msgid "$"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:127
+msgid "Qty:"
+msgstr ""
+
+#: framework/includes/rs-woocommerce-config.php:135
+msgid "Checkout"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:520
+#, php-format
+msgid "<a href=\"%1$s\" title=\"%2$s\" class=\"edit\">%3$s</a>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:827
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2533
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:934
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:1584
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:1601
+#, php-format
+msgid "<a href=\"%1$s\" class=\"thickbox\">%2$s</a>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2410
+#, php-format
+msgid "<a href=\"%s\"%s>%s</a>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2447
+#, php-format
+msgid "<input type=\"checkbox\" name=\"%1$s[]\" value=\"%2$s\" id=\"%3$s\" />"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2464
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2490
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2510
+#, php-format
+msgid ""
+"<p><span style=\"min-width: 32px; text-align: right; float: right;%1$s\">"
+"%2$s</span>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2498
+#, php-format
+msgid ""
+"<p><span style=\"min-width: 32px; text-align: right; float: right;\">%1$s</"
+"span>"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2633
+#, php-format
+msgid "<a href=\"%1$s\">"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3509
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3509
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: framework/includes/plugins/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/admin/options-init.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: framework/admin/options-init.php:112
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+#: framework/admin/options-init.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/admin/options-init.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: framework/admin/options-init.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/admin/options-init.php:209
+msgid "Tags"
+msgstr ""
+
+#: framework/admin/options-init.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: framework/admin/options-init.php:255
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: framework/admin/options-init.php:256
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: framework/admin/options-init.php:257
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: framework/admin/options-init.php:261
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: framework/admin/options-init.php:271
+msgid "Theme Information"
+msgstr ""
+
+#: framework/admin/options-init.php:272
+msgid "<p class=\"description\">More about our theme.</p>"
+msgstr ""
+
+#: framework/admin/options-init.php:286
+msgid "Documentation"
+msgstr ""
+
+#: framework/admin/options-init.php:297
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/admin/options-init.php:298 framework/admin/options-init.php:304
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/admin/options-init.php:303
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/admin/options-init.php:308
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:42
+msgid "Blog Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:67
+#: framework/admin/metaboxes-init.php:303
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:92
+msgid "Social Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:119
+#: framework/admin/metaboxes-init.php:236
+msgid "Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:142
+msgid "Video Post Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:165
+msgid "Audio Post Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:188
+msgid "Gallery Post Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:211 framework/admin/metaboxes/post.php:6
+msgid "Post Options"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:258
+msgid "Testimonial"
+msgstr ""
+
+#: framework/admin/metaboxes-init.php:280
+msgid "Team"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:7
+#: framework/admin/metaboxes/sidebar.php:27
+#: framework/admin/options/general.php:44
+msgid "Sidebar"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:8
+msgid "Change the sidebar and configure it."
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:15
+#: framework/admin/options/general.php:32
+msgid "Main Layout"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:16
+#: framework/admin/options/general.php:33
+msgid ""
+"Select main content and sidebar alignment. Choose between 1 or 2 column "
+"layout."
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:18
+#: framework/admin/options/general.php:35
+msgid "1 Column"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:19
+#: framework/admin/options/general.php:36
+msgid "2 - Columns Left"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:20
+#: framework/admin/options/general.php:37
+msgid "2 - Columns Right"
+msgstr ""
+
+#: framework/admin/metaboxes/sidebar.php:28
+#: framework/admin/metaboxes/footer.php:39
+#: framework/admin/metaboxes/footer.php:48
+#: framework/admin/options/footer.php:38 framework/admin/options/footer.php:47
+#: framework/admin/options/general.php:45
+msgid "Select custom sidebar"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:6
+#: framework/admin/options/title-wrapper.php:7
+msgid "Title Wrapper"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:7
+#: framework/admin/options/title-wrapper.php:8
+#: framework/admin/options/404.php:8
+msgid "Change the title wrapper section configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:14
+#: framework/admin/options/title-wrapper.php:15
+msgid "Enable Title Wrapper"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:15
+#: framework/admin/metaboxes/footer.php:21
+#: framework/admin/metaboxes/header.php:21
+#: framework/admin/options/title-wrapper.php:16
+#: framework/admin/options/footer.php:20
+#: framework/admin/options/general.php:19
+#: framework/admin/options/header.php:18
+msgid "If on, this layout part will be displayed."
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:26
+#: framework/admin/metaboxes/post.php:13
+#: framework/admin/metaboxes/header.php:26
+#: framework/admin/options/title-wrapper.php:26
+#: framework/admin/options/header.php:23
+msgid "Template"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:27
+msgid "Choose template for title wrapper."
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:30
+#: framework/admin/metaboxes/post.php:17
+#: framework/admin/metaboxes/header.php:30
+#: framework/admin/options/header.php:27
+msgid "Alternative"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:38
+#: framework/admin/options/title-wrapper.php:37
+msgid "Full Width"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:39
+#: framework/admin/options/title-wrapper.php:38
+msgid "If on, full width will be enabled."
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:52
+#: framework/admin/options/title-wrapper.php:50
+msgid "Background"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:53
+#: framework/admin/options/title-wrapper.php:51
+msgid "Title wrapper background, color and other options."
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:58
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:61
+msgid "Fixed"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:62
+msgid "Inherit"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:68
+msgid "Background Size"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:70
+msgid "Cover"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:71
+msgid "Contain"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:72
+msgid "Initial"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:78
+msgid "Background Position"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:80
+msgid "Left Top"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:81
+msgid "Left Center"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:82
+msgid "Left Bottom"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:83
+msgid "Right Top"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:84
+msgid "Right Center"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:85
+msgid "Right Bottom"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:86
+msgid "Center Top"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:87
+msgid "Center Center"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:88
+msgid "Center Bottom"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:94
+#: framework/admin/options/title-wrapper.php:56
+msgid "Color"
+msgstr ""
+
+#: framework/admin/metaboxes/title-wrapper.php:100
+#: framework/admin/options/title-wrapper.php:62
+msgid "Subtitle"
+msgstr ""
+
+#: framework/admin/metaboxes/post.php:7
+msgid "Change the post section configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/post.php:14
+msgid "Choose template for post single."
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:6
+#: framework/admin/options/customizer.php:130
+#: framework/admin/options/footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:7 framework/admin/options/footer.php:7
+msgid "Change the footer section configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:14
+#: framework/admin/options/footer.php:14
+msgid "Enable Footer"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:27
+#: framework/admin/options/footer.php:26
+msgid "Footer Template"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:28
+#: framework/admin/options/footer.php:27
+msgid "Select footer layout."
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:30
+#: framework/admin/options/footer.php:29
+msgid "Footer With Social Only"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:31
+#: framework/admin/options/footer.php:30
+msgid "Footer With Social and Widgets"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:38
+#: framework/admin/options/footer.php:37
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:47
+#: framework/admin/options/footer.php:46
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:56
+#: framework/admin/options/footer.php:55
+msgid "Footer Logo Module & Social Module"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:62
+#: framework/admin/metaboxes/header.php:54
+#: framework/admin/options/footer.php:61 framework/admin/options/header.php:51
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:63
+#: framework/admin/options/footer.php:62
+msgid "Upload the logo that will be displayed in the footer."
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:68
+#: framework/admin/options/footer.php:81
+msgid "Show social icons"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:69
+#: framework/admin/options/footer.php:82
+msgid "If on, social icons will be displayed."
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:80
+#: framework/admin/options/footer.php:92
+msgid "Social Icons Category"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:81
+#: framework/admin/options/footer.php:93
+msgid "Select desired category"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:88
+#: framework/admin/options/footer.php:100
+msgid "Copyright Configuration"
+msgstr ""
+
+#: framework/admin/metaboxes/footer.php:93
+#: framework/admin/options/footer.php:105
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/admin/metaboxes/post-audio.php:11
+msgid "Sound Cloud ID"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:7 framework/admin/options/404.php:15
+msgid "Content"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:8
+msgid "Change the content section configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:14
+msgid "Content Margin"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:15
+msgid "Select desired margin for the content"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:17
+msgid "Top & bottom margin"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:18
+msgid "Only top margin"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:19
+msgid "Only bottom margin"
+msgstr ""
+
+#: framework/admin/metaboxes/content.php:20
+msgid "No margin"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:12
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:13
+msgid "Select portfolio style."
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:15
+msgid "One Column"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:16
+msgid "Three Column"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:17
+msgid "Four Column"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:18
+msgid "Masonry"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:25
+#: framework/admin/metaboxes/page-template-blog.php:11
+msgid "Posts per page"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:26
+#: framework/admin/metaboxes/page-template-blog.php:12
+msgid "The number of items to show."
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:32
+msgid "Enable Filter"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:33
+msgid "If on filter will be enabled."
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:43
+#: framework/admin/metaboxes/page-template-blog.php:29
+msgid "Categories"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:44
+#: framework/admin/metaboxes/page-template-blog.php:30
+msgid "Select desired categories"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:56
+#: framework/admin/metaboxes/page-template-blog.php:41
+msgid "Excluded blog items"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-portfolio.php:57
+#: framework/admin/metaboxes/page-template-blog.php:42
+msgid "Post IDs you want to exclude, separated by commas eg. 120,123,1005"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-blog.php:18
+msgid "Enable pagination"
+msgstr ""
+
+#: framework/admin/metaboxes/page-template-blog.php:19
+msgid "If on pagination will be enabled."
+msgstr ""
+
+#: framework/admin/metaboxes/testimonial.php:12
+msgid "Author Name"
+msgstr ""
+
+#: framework/admin/metaboxes/testimonial.php:17
+#: framework/admin/metaboxes/team.php:12
+msgid "Position"
+msgstr ""
+
+#: framework/admin/metaboxes/testimonial.php:23
+msgid "Signature"
+msgstr ""
+
+#: framework/admin/metaboxes/post-video.php:11
+msgid "Video URL (m4v)"
+msgstr ""
+
+#: framework/admin/metaboxes/post-video.php:12
+msgid "m4v Video URL"
+msgstr ""
+
+#: framework/admin/metaboxes/post-video.php:18
+msgid "Video URL (webm)"
+msgstr ""
+
+#: framework/admin/metaboxes/post-video.php:19
+msgid "webm Video URL"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:13
+msgid "Client Title"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:14
+msgid "Your client title."
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:20
+msgid "Client"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:21
+msgid "Your client name."
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:27
+msgid "Desiginer Title"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:28
+msgid "Your desiginer title."
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:34
+msgid "Desiginer"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-details.php:35
+msgid "Your desiginer name."
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:6 framework/admin/options/header.php:6
+msgid "Header"
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:7 framework/admin/options/header.php:7
+msgid "Change the header section configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:14
+#: framework/admin/options/header.php:12
+msgid "Enable Header"
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:27
+#: framework/admin/options/header.php:24
+msgid "Choose template for navigation header."
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:38
+#: framework/admin/options/header.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:39
+#: framework/admin/options/header.php:36
+msgid "Select a menu to overwrite the header menu location."
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:47
+#: framework/admin/options/header.php:44
+msgid "Logo Module Configuration."
+msgstr ""
+
+#: framework/admin/metaboxes/header.php:55
+#: framework/admin/options/header.php:52
+msgid "Upload the logo that will be displayed in the header."
+msgstr ""
+
+#: framework/admin/metaboxes/post-gallery.php:11
+msgid "Gallery Slider"
+msgstr ""
+
+#: framework/admin/metaboxes/post-gallery.php:12
+#: framework/admin/metaboxes/portfolio-general.php:13
+msgid "Upload images or add from media library."
+msgstr ""
+
+#: framework/admin/metaboxes/post-gallery.php:14
+#: framework/admin/metaboxes/portfolio-general.php:15
+msgid "Title"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:7
+msgid "General settings"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:12
+msgid "Gallery"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:26
+msgid "Link To"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:28
+msgid "Single Page"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:29
+msgid "Lightbox"
+msgstr ""
+
+#: framework/admin/metaboxes/portfolio-general.php:30
+#: framework/admin/metaboxes/team.php:18
+msgid "External URL"
+msgstr ""
+
+#: framework/admin/metaboxes/social-site.php:12
+msgid "Select Icon"
+msgstr ""
+
+#: framework/admin/metaboxes/social-site.php:13
+msgid "Select Desired Social Icon"
+msgstr ""
+
+#: framework/admin/options/customizer.php:7
+msgid "Customizer"
+msgstr ""
+
+#: framework/admin/options/customizer.php:8
+#: framework/admin/options/fonts.php:8
+msgid "Check child sections to style properly the correct area of the theme."
+msgstr ""
+
+#: framework/admin/options/customizer.php:18
+msgid "Pagination"
+msgstr ""
+
+#: framework/admin/options/customizer.php:19
+msgid "Configure pagination styles."
+msgstr ""
+
+#: framework/admin/options/customizer.php:26
+msgid "Button Fill Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:33
+msgid "Button Fill Hover Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:40
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:47
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:54
+msgid "Button Border Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:61
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:73
+msgid "Menu"
+msgstr ""
+
+#: framework/admin/options/customizer.php:74
+msgid "Configure menu styles."
+msgstr ""
+
+#: framework/admin/options/customizer.php:80
+msgid "Main Header Settings"
+msgstr ""
+
+#: framework/admin/options/customizer.php:85
+msgid "Main Menu Item Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:92
+msgid "Main Menu Item Hover Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:99
+msgid "Sub Menu Item Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:106
+msgid "Sub Menu Item Hover Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:113
+msgid "Header Settings"
+msgstr ""
+
+#: framework/admin/options/customizer.php:118
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:131
+msgid "Configure footer styles."
+msgstr ""
+
+#: framework/admin/options/customizer.php:137
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:148
+msgid "Global"
+msgstr ""
+
+#: framework/admin/options/customizer.php:149
+msgid "Configure global element styles."
+msgstr ""
+
+#: framework/admin/options/customizer.php:155
+msgid "Heading Color"
+msgstr ""
+
+#: framework/admin/options/customizer.php:162
+msgid "Content Color"
+msgstr ""
+
+#: framework/admin/options/title-wrapper.php:27
+msgid "Select page title wrapper template."
+msgstr ""
+
+#: framework/admin/options/404.php:7
+msgid "404 Page"
+msgstr ""
+
+#: framework/admin/options/404.php:17
+msgid "Content for 404 page."
+msgstr ""
+
+#: framework/admin/options/footer.php:67 framework/admin/options/header.php:57
+msgid "Logo Width"
+msgstr ""
+
+#: framework/admin/options/footer.php:69 framework/admin/options/footer.php:76
+#: framework/admin/options/header.php:59 framework/admin/options/header.php:66
+msgid "Optional : Enter the logo width in pixel for e.g 150px."
+msgstr ""
+
+#: framework/admin/options/footer.php:74 framework/admin/options/header.php:64
+msgid "Logo Height"
+msgstr ""
+
+#: framework/admin/options/export.php:3
+msgid "Import/Export"
+msgstr ""
+
+#: framework/admin/options/export.php:4
+msgid "Import/Export Options"
+msgstr ""
+
+#: framework/admin/options/export.php:11
+msgid "Import Export"
+msgstr ""
+
+#: framework/admin/options/export.php:12
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: framework/admin/options/favicon.php:7
+msgid "Favicon Settings"
+msgstr ""
+
+#: framework/admin/options/favicon.php:8
+msgid ""
+"Configure the favicon in a lot of plataforms. Generate and download your "
+"package at http://realfavicongenerator.net/"
+msgstr ""
+
+#: framework/admin/options/favicon.php:15
+msgid ""
+"Generate and download your image package at http://realfavicongenerator.net/"
+msgstr ""
+
+#: framework/admin/options/favicon.php:21
+msgid "Default Favicons"
+msgstr ""
+
+#: framework/admin/options/favicon.php:25
+msgid "Favicon 16x16"
+msgstr ""
+
+#: framework/admin/options/favicon.php:26
+msgid "Upload favicon image in the following dimensions (16x16)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:34
+msgid "Favicon 32x32"
+msgstr ""
+
+#: framework/admin/options/favicon.php:35
+msgid "Upload favicon image in the following dimensions (32x32)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:43
+msgid "Favicon 96x96"
+msgstr ""
+
+#: framework/admin/options/favicon.php:44
+msgid "Upload favicon image in the following dimensions (96x96)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:52
+msgid "Favicon 160x160"
+msgstr ""
+
+#: framework/admin/options/favicon.php:53
+msgid "Upload favicon image in the following dimensions (160x160)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:61
+msgid "Favicon 192x192"
+msgstr ""
+
+#: framework/admin/options/favicon.php:62
+msgid "Upload favicon image in the following dimensions (192x192)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:72
+msgid "Apple Favicons"
+msgstr ""
+
+#: framework/admin/options/favicon.php:76
+msgid "Favicon 57x57"
+msgstr ""
+
+#: framework/admin/options/favicon.php:77
+msgid "Upload favicon image in the following dimensions (57x57)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:85
+msgid "Favicon 114x114"
+msgstr ""
+
+#: framework/admin/options/favicon.php:86
+msgid "Upload favicon image in the following dimensions (114x114)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:94
+msgid "Favicon 72x72"
+msgstr ""
+
+#: framework/admin/options/favicon.php:95
+msgid "Upload favicon image in the following dimensions (72x72)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:103
+msgid "Favicon 144x144"
+msgstr ""
+
+#: framework/admin/options/favicon.php:104
+msgid "Upload favicon image in the following dimensions (144x144)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:112
+msgid "Favicon 60x60"
+msgstr ""
+
+#: framework/admin/options/favicon.php:113
+msgid "Upload favicon image in the following dimensions (60x60)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:121
+msgid "Favicon 120x120"
+msgstr ""
+
+#: framework/admin/options/favicon.php:122
+msgid "Upload favicon image in the following dimensions (120x120)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:130
+msgid "Favicon 76x76"
+msgstr ""
+
+#: framework/admin/options/favicon.php:131
+msgid "Upload favicon image in the following dimensions (76x76)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:139
+msgid "Favicon 152x152"
+msgstr ""
+
+#: framework/admin/options/favicon.php:140
+msgid "Upload favicon image in the following dimensions (152x152)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:148
+msgid "Favicon 180x180"
+msgstr ""
+
+#: framework/admin/options/favicon.php:149
+msgid "Upload favicon image in the following dimensions (180x180)"
+msgstr ""
+
+#: framework/admin/options/favicon.php:159
+msgid "Windows Metro"
+msgstr ""
+
+#: framework/admin/options/favicon.php:165
+msgid "Custom Tile Background Color"
+msgstr ""
+
+#: framework/admin/options/favicon.php:166
+msgid "Pick a background color for the tile."
+msgstr ""
+
+#: framework/admin/options/favicon.php:173
+msgid "Tile Image 70x70"
+msgstr ""
+
+#: framework/admin/options/favicon.php:174
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: 70x70. "
+"Recommended: 128x128."
+msgstr ""
+
+#: framework/admin/options/favicon.php:182
+msgid "Tile Image 150x150"
+msgstr ""
+
+#: framework/admin/options/favicon.php:183
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"150x150. Recommended: 270x270."
+msgstr ""
+
+#: framework/admin/options/favicon.php:191
+msgid "Tile Image 310x150"
+msgstr ""
+
+#: framework/admin/options/favicon.php:192
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"310x150. Recommended: 558x270."
+msgstr ""
+
+#: framework/admin/options/favicon.php:200
+msgid "Tile Image 310x310"
+msgstr ""
+
+#: framework/admin/options/favicon.php:201
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"310x310. Recommended: 558x558."
+msgstr ""
+
+#: framework/admin/options/advanced.php:6
+msgid "Advanced"
+msgstr ""
+
+#: framework/admin/options/advanced.php:7
+msgid "Change advanced theme options."
+msgstr ""
+
+#: framework/admin/options/advanced.php:12
+msgid "Twitter API"
+msgstr ""
+
+#: framework/admin/options/advanced.php:13
+msgid ""
+"Go to \"https://dev.twitter.com/apps,\" login with your twitter account and "
+"click \"Create a new application\"."
+msgstr ""
+
+#: framework/admin/options/advanced.php:19
+msgid ""
+"To get required keys please go to \"https://dev.twitter.com/apps,\" login "
+"with your twitter account and click \"Create a new application\"."
+msgstr ""
+
+#: framework/admin/options/advanced.php:25
+msgid "Consumer Key"
+msgstr ""
+
+#: framework/admin/options/advanced.php:33
+msgid "Consumer Secret"
+msgstr ""
+
+#: framework/admin/options/advanced.php:41
+#: framework/admin/options/advanced.php:73
+msgid "Access Token"
+msgstr ""
+
+#: framework/admin/options/advanced.php:49
+msgid "Access Token Secret"
+msgstr ""
+
+#: framework/admin/options/advanced.php:58
+msgid "Instagram API"
+msgstr ""
+
+#: framework/admin/options/advanced.php:59
+msgid ""
+"Go to \"https://smashballoon.com/instagram-feed/token/,\" login with your "
+"instagram account and click \"Create a new application\"."
+msgstr ""
+
+#: framework/admin/options/advanced.php:65
+msgid "User ID"
+msgstr ""
+
+#: framework/admin/options/general.php:6
+msgid "General"
+msgstr ""
+
+#: framework/admin/options/general.php:7
+msgid "Configure general styles."
+msgstr ""
+
+#: framework/admin/options/general.php:13
+msgid "Enable Loader"
+msgstr ""
+
+#: framework/admin/options/general.php:25
+msgid "Loader Logo"
+msgstr ""
+
+#: framework/admin/options/general.php:26
+msgid "Upload the logo that will be displayed in the loader."
+msgstr ""
+
+#: framework/admin/options/general.php:53
+msgid "Custom Sidebars"
+msgstr ""
+
+#: framework/admin/options/general.php:54
+msgid "Custom sidebars can be assigned to any page or post."
+msgstr ""
+
+#: framework/admin/options/general.php:55
+msgid "You can add as many custom sidebars as you need."
+msgstr ""
+
+#: framework/admin/options/custom_code.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/options/custom_code.php:8
+msgid "Easily add custom CSS to your website."
+msgstr ""
+
+#: framework/admin/options/custom_code.php:15
+msgid "CSS Code"
+msgstr ""
+
+#: framework/admin/options/custom_code.php:16
+msgid ""
+"Insert your custom CSS code right here. It will be displayed globally in the "
+"website."
+msgstr ""
+
+#: framework/admin/options/fonts.php:7
+msgid "Fonts"
+msgstr ""
+
+#: framework/admin/options/fonts.php:18
+msgid "Heading"
+msgstr ""
+
+#: framework/admin/options/fonts.php:19
+msgid "Configure heading styles."
+msgstr ""
+
+#: framework/admin/options/fonts.php:25
+msgid "Post Title"
+msgstr ""
+
+#: framework/admin/options/fonts.php:36 framework/admin/options/fonts.php:43
+msgid "Body"
+msgstr ""
+
+#: framework/admin/options/fonts.php:37
+msgid "Configure body styles."
+msgstr ""

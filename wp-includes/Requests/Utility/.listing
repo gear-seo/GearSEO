@@ -1,0 +1,4 @@
+drwxrwx---    2 1000       web_gearse         69 Dec 15 16:51 .
+drwxrwx---    9 1000       web_gearse       4096 Dec 15 16:51 ..
+-rw-rwx---    1 1000       web_gearse       1993 Jan 23  2017 CaseInsensitiveDictionary.php
+-rw-rwx---    1 1000       web_gearse        829 Jan 23  2017 FilteredIterator.php

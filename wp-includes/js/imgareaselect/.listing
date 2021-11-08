@@ -1,0 +1,7 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 16:52 .
+drwxrwx---   12 1000       web_gearse       4096 Dec 15 16:52 ..
+-rw-rwx---    1 1000       web_gearse        178 Jan 23  2017 border-anim-h.gif
+-rw-rwx---    1 1000       web_gearse        178 Jan 23  2017 border-anim-v.gif
+-rw-rwx---    1 1000       web_gearse        790 Jan 23  2017 imgareaselect.css
+-rw-rwxr--    1 1000       web_gearse      38132 Apr  3 19:53 jquery.imgareaselect.js
+-rw-rwxr--    1 1000       web_gearse       9887 Apr  3 19:53 jquery.imgareaselect.min.js

@@ -1,0 +1,6 @@
+drwxrwx---    2 1000       web_gearse         83 Dec 15 16:52 .
+drwxrwx---   12 1000       web_gearse       4096 Dec 15 16:52 ..
+-rw-rwx---    1 1000       web_gearse       1460 Dec 13  2017 handlers.js
+-rw-rwx---    1 1000       web_gearse       1276 Dec 13  2017 handlers.min.js
+-rw-rwx---    1 1000       web_gearse       1540 Jan 23  2017 license.txt
+-rw-rwx---    1 1000       web_gearse       4439 Dec 13  2017 swfupload.js

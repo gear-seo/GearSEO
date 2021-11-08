@@ -1,0 +1,11 @@
+drwxrwx---    2 1000       web_gearse       4096 Dec 15 16:53 .
+drwxrwx---   18 1000       web_gearse       8192 Dec 15 16:53 ..
+-rw-rwx---    1 1000       web_gearse       2112 Jan 23  2017 comments.php
+-rw-rwx---    1 1000       web_gearse        970 Jan 23  2017 embed-404.php
+-rw-rwx---    1 1000       web_gearse       3446 Dec 13  2017 embed-content.php
+-rw-rwx---    1 1000       web_gearse        479 Jan 23  2017 embed.php
+-rw-rwx---    1 1000       web_gearse        438 Jan 23  2017 footer-embed.php
+-rw-rwx---    1 1000       web_gearse       1059 Jan 23  2017 footer.php
+-rw-rwx---    1 1000       web_gearse        704 Jan 23  2017 header-embed.php
+-rw-rwx---    1 1000       web_gearse       1893 Jan 23  2017 header.php
+-rw-rwx---    1 1000       web_gearse       4060 Jan 23  2017 sidebar.php

@@ -1,0 +1,12 @@
+drwxrwx---    7 1000       web_gearse       4096 Dec 15 16:53 .
+drwxrwx---   12 1000       web_gearse       4096 Dec 15 16:52 ..
+drwxrwx---    2 1000       web_gearse         60 Dec 15 16:53 langs
+-rw-rwx---    1 1000       web_gearse      26441 Jun 27  2017 license.txt
+drwxrwx---   24 1000       web_gearse       4096 Dec 15 16:53 plugins
+drwxrwx---    4 1000       web_gearse         38 Dec 15 16:53 skins
+drwxrwx---    4 1000       web_gearse         32 Dec 15 16:53 themes
+-rw-rwx---    1 1000       web_gearse      15988 Dec 13  2017 tiny_mce_popup.js
+-rw-rwxr--    1 1000       web_gearse     350401 May 18 11:49 tinymce.min.js
+drwxrwx---    2 1000       web_gearse         86 Dec 15 16:53 utils
+-rw-rwxr--    1 1000       web_gearse     209550 May 18 11:49 wp-tinymce.js.gz
+-rw-rwx---    1 1000       web_gearse       1126 Jan 23  2017 wp-tinymce.php

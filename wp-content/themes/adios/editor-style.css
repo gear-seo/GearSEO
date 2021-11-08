@@ -1,0 +1,45 @@
+.wp-block {
+  max-width: 1140px;
+}
+
+.wp-block[data-align="wide"] {
+  max-width: 1080px;
+}
+
+.wp-block[data-align="full"] {
+  max-width: none;
+}
+
+.wp-block-button__link {
+  color: #fff;
+  font-weight: 500;
+  padding: 15px 30px;
+  background-color: #111;
+  font-size: 16px;
+  border-radius: 0px;
+}
+
+.wp-block-categories ul li,
+ul.wp-block-archives li,
+ul.wp-block-latest-posts li {
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 10px;
+  padding: 0;
+  padding-left: 2px;
+  text-decoration: none;
+}
+
+.wp-block-categories ul li a,
+ul.wp-block-archives li a,
+ul.wp-block-latest-posts li a {
+  text-decoration: none;
+  color:#666;
+}
+
+.wp-block-categories ul li a:hover,
+ul.wp-block-archives li a:hover,
+ul.wp-block-latest-posts li a:hover {
+  text-decoration: underline;
+  color:#111;
+}

@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="adios_theme_options">
+      <key name="footer-text-content" />
+    </key>
+  </admin-texts>
+</wpml-config>
