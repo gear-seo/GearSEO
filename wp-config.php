@@ -16,11 +16,11 @@ define( 'WP_CACHE', true );
  */
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'vkdvdpkfjc');
+define('DB_NAME', 'gearseo');
 /** MySQL database username */
-define('DB_USER', 'vkdvdpkfjc');
+define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', 'Z32ZabmGhj');
+define('DB_PASSWORD', '');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
@@ -66,8 +66,8 @@ define('FS_CHMOD_FILE', (0664 & ~ umask()));
  * in their development environments.
  */
 define('WP_DEBUG', false);
-define('WP_SITEURL', 'https://gearseo.com.br');
-define('WP_HOME', 'https://gearseo.com.br');
+define('WP_SITEURL', 'http://localhost/gearSEO/');
+define('WP_HOME', 'http://localhost/gearSEO/');
 define('DISALLOW_FILE_EDIT', false);
 
 /* That's all, stop editing! Happy blogging. */
